@@ -15,3 +15,7 @@ git config --local user.name "minombre"
 git config --local user.email "yo@yolandia.com"
 
 local o global dependiendo del espacio de trabajo
+
+para hacer los commits solicitados se añade el archivo con git add "nombre de archivo" y luego git commit -m "mensaje"
+
+Enviar cambios del local al remoto se usa git push
