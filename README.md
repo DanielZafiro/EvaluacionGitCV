@@ -13,3 +13,5 @@ para configurar el nombre de usuario y correo electronico para este repositorio 
 git config --local user.name "minombre"
 
 git config --local user.email "yo@yolandia.com"
+
+local o global dependiendo del espacio de trabajo
